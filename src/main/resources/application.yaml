@@ -1,0 +1,2 @@
+elasticsearch:
+  endpoints: [ "localhost:9200" ]
